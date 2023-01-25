@@ -3,3 +3,4 @@
 
 ## How to setup ##
 
+Step 1: Setting env file:
